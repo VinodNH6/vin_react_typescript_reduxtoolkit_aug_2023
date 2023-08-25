@@ -1,0 +1,9 @@
+setup:
+
+step1: npx create-react-app vin_react_typescript_reduxtoolkit_aug_2023  --template redux-typescript
+
+
+links:
+
+https://bluelight.co/blog/redux-toolkit-with-typescript
+
